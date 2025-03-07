@@ -1,5 +1,73 @@
-# Vue 3 + Vite
+# C.R.A.M. (Cosmic Resource Allocation Manager)
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+An incremental game about managing cosmic resources through bureaucracy. File paperwork, optimize processes, and navigate interdimensional red tape to become the ultimate cosmic administrator.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## 🎮 Play Now
+
+Visit [https://MonsterJellyfish.github.io/scifigame/](https://MonsterJellyfish.github.io/scifigame/)
+
+## 🚀 Features (Planned)
+
+- Resource management across multiple dimensions
+- Byzantine bureaucratic systems to navigate
+- Automation and optimization mechanics
+- Department management
+- Interdimensional politics
+- Crisis management events
+
+## 🛠️ Tech Stack
+
+- Vue 3
+- Vite
+- Pinia
+
+## 📋 Prerequisites
+
+- Node.js (v18 or higher)
+- npm
+
+## 🔧 Development Setup
+
+1. Clone the repository
+```bash
+git clone https://github.com/MonsterJellyfish/scifigame.git
+cd scifigame
+```
+
+2. Install dependencies
+```bash
+npm install
+```
+
+3. Start development server
+```bash
+npm run dev
+```
+
+4. Build for production
+```bash
+npm run build
+```
+
+## 📝 License
+
+[Choose an appropriate license]
+
+## 🤝 Contributing
+
+Currently in early development. Feel free to star the project and check back later for contribution guidelines.
+
+## 📊 Project Status
+
+Early development - Basic structure implementation
+
+### Current Focus
+- [x] Basic website structure
+- [ ] Core game loop
+- [ ] Resource management system
+
+### Recent Updates
+- Added basic settings panel with resource display options
+- Implemented initial game UI structure
+
+Check [docs/DESIGN.md](docs/DESIGN.md) for detailed development plans.
